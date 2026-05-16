@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+    <title id="title">Google review card two</title>
+    <desc id="desc">Five star Google review for Tempe GYM from Aisha Naidoo.</desc>
+    <rect width="760" height="300" rx="8" fill="#ffffff"/>
+    <circle cx="70" cy="72" r="34" fill="#1a73e8"/>
+    <text x="70" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">A</text>
+    <text x="122" y="64" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#202124">Aisha Naidoo</text>
+    <text x="122" y="94" font-family="Arial, sans-serif" font-size="16" fill="#5f6368">Google Review</text>
+    <text x="56" y="142" font-family="Arial, sans-serif" font-size="28" fill="#fbbc04">★★★★★</text>
+    <text x="56" y="190" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#202124">The classes are powerful and welcoming.</text>
+    <text x="56" y="226" font-family="Arial, sans-serif" font-size="18" fill="#3c4043">I joined for fitness, but stayed for the coaching, energy, and friendly team.</text>
+    <text x="56" y="264" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4285f4">G</text>
+    <text x="74" y="264" font-family="Arial, sans-serif" font-size="18" fill="#5f6368">oogle</text>
+</svg>
